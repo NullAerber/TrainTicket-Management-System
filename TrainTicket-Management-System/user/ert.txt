@@ -1,0 +1,18 @@
+[username] asd
+[userkey] asd
+[name] zhou
+[identity_card] 320150940770
+[sex] woman
+[address] lanzhouyuzhong
+
+[date] 2016-02-09
+[schedule] Z114
+[dep_station] shanghai
+[arr_station] lanzhou
+[ticket_tag] hardbed
+
+[date] 2016-02-09
+[schedule] T182
+[dep_station] shandong
+[arr_station] anhui
+[ticket_tag] hardseat

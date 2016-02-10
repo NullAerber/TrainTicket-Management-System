@@ -1,0 +1,18 @@
+[interval] 18
+
+[noseat_an] 60
+[noseat_selln] 2
+[noseat_pri] 8
+
+[hardseat_an] 90
+[hardseat_selln] 15
+[hardseat_pri] 200
+
+[hardbed_an] 90
+[hardbed_selln] 60
+[hardbed_pri] 300
+
+[softbed_an] 9
+[softbed_selln] 5
+[softbed_pri] 600
+
