@@ -1,3 +1,0 @@
-[dep_station] shanghai
-[arr_station] tianjin
-[schedule] K487
