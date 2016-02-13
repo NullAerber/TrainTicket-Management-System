@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TrainTicket Book" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/TrainTicket Book" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/TrainTicket Book" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Buyer.Buyticket.cpp" />
+		<Unit filename="Buyer.Changeinfo.cpp" />
+		<Unit filename="Buyer.Changekey.cpp" />
+		<Unit filename="Buyer.Check.cpp" />
+		<Unit filename="Buyer.Creatinfo.cpp" />
+		<Unit filename="Buyer.File_user.cpp" />
+		<Unit filename="Buyer.Improveinfo.cpp" />
+		<Unit filename="Buyer.Lookall.cpp" />
+		<Unit filename="Buyer.Quitticket.cpp" />
+		<Unit filename="Buyer.Search.cpp" />
+		<Unit filename="Buyer.Set_user.cpp" />
+		<Unit filename="Buyer.Transfer.cpp" />
+		<Unit filename="Seller.Change.cpp" />
+		<Unit filename="Seller.Check.cpp" />
+		<Unit filename="Seller.Initial.cpp" />
+		<Unit filename="Seller.Lookall.cpp" />
+		<Unit filename="Seller.Search.cpp" />
+		<Unit filename="Seller.Seller.cpp" />
+		<Unit filename="Seller.Transfer.cpp" />
+		<Unit filename="Time.cpp" />
+		<Unit filename="all.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

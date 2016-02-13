@@ -1,0 +1,145 @@
+[day] 2016-02-13
+[time] 12:52:17
+[week] Saturday
+
+[id]
+shanghai
+tianjin
+beijing
+nanjing
+guangdong
+lanzhou
+anhui
+shandong
+hunan
+[id]
+
+[dep_station] shanghai
+[arr_station] tianjin
+K487
+9000
+
+[dep_station] beijing
+[arr_station] nanjing
+T102
+36000
+
+[dep_station] guangdong
+[arr_station] lanzhou
+T112
+109500
+
+[dep_station] anhui
+[arr_station] nanjing
+Z42
+10800
+
+[dep_station] shandong
+[arr_station] lanzhou
+Z114
+74150
+
+[dep_station] shanghai
+[arr_station] nanjing
+Z78
+9506
+
+[dep_station] shanghai
+[arr_station] anhui
+T912
+20436
+
+[dep_station] shanghai
+[arr_station] guangdong
+Z52
+56540
+
+[dep_station] shanghai
+[arr_station] hunan
+T123
+67080
+
+[dep_station] hunan
+[arr_station] guangdong
+T12
+72720
+
+[dep_station] beijing
+[arr_station] hunan
+Z95
+88703
+
+[dep_station] nanjing
+[arr_station] lanzhou
+T25
+80700
+
+[dep_station] shandong
+[arr_station] anhui
+Z159
+5425
+
+[dep_station] tianjin
+[arr_station] shanghai
+K784
+9000
+
+[dep_station] nanjing
+[arr_station] beijing
+T201
+36000
+
+[dep_station] lanzhou
+[arr_station] guangdong
+T211
+109500
+
+[dep_station] nanjing
+[arr_station] anhui
+Z24
+10800
+
+[dep_station] lanzhou
+[arr_station] shandong
+Z411
+74150
+
+[dep_station] nanjing
+[arr_station] shanghai
+Z87
+9506
+
+[dep_station] anhui
+[arr_station] shanghai
+T219
+20436
+
+[dep_station] guangdong
+[arr_station] shanghai
+Z25
+56540
+
+[dep_station] hunan
+[arr_station] shanghai
+T321
+67080
+
+[dep_station] guangdong
+[arr_station] hunan
+T21
+72720
+
+[dep_station] hunan
+[arr_station] beijing
+Z59
+88703
+
+[dep_station] lanzhou
+[arr_station] nanjing
+T52
+80700
+
+[dep_station] anhui
+[arr_station] shangdong
+Z951
+5425

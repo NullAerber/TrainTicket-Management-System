@@ -1,0 +1,7 @@
+[username] asd
+[userkey] asd
+[name] zhou
+[identity_card] 320150940770
+[sex] woman
+[address] lanzhouyuzhong
+

@@ -1,0 +1,20 @@
+[dep_station] nanjing
+[arr_station] beijing
+[schedule] T201
+[interval] 36000
+
+[noseat_an] 100
+[noseat_selln] 0
+[noseat_pri] 60
+
+[hardseat_an] 180
+[hardseat_selln] 0
+[hardseat_pri] 260
+
+[hardbed_an] 200
+[hardbed_selln] 0
+[hardbed_pri] 400
+
+[softbed_an] 60
+[softbed_selln] 0
+[softbed_pri] 520
